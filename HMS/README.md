@@ -36,7 +36,7 @@ git clone https://github.com/margiki/NHS-nodejs-webapp
 
 Data about patients and rooms is available here. The page is split into three tables. 
 
-![Dashboard](https://github.com/Divyanshu8770/HMS/tree/main/HMS/github_readme_photos/dashboard.jpg)
+![Dashboard](https://github.com/Divyanshu8770/HMS/blob/main/HMS/github_readme_photos/dashboard.jpg)
 
 ![Dashboard](https://github.com/Divyanshu8770/HMS/tree/main/HMS/github_readme_photos/dasboard_2.jpg)
 
