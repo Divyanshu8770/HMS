@@ -1,0 +1,56 @@
+<link rel="stylesheet" type="text/css" href="/css/dataTables.bootstrap.min.css">
+<link rel="stylesheet" href="/css/jquery.dataTables.min.css">
+
+<link rel="stylesheet" href="/css/addpatient.css">
+
+<div class="col-md-12 col-lg-12 patient-manager">
+    <form action="/app/addpatient" method="post">
+        <!-- First name input -->
+        <div class="form-group row input-container">
+            <label>First Name</label>
+            <input id="first-name" class="form-control" style="width: 100%;" type="text" name="firstName" required="true" placeholder="Enter first name...">
+        </div>
+
+        <!-- Last name input -->
+        <div class="form-group row input-container">
+            <label>Last Name</label>
+            <input class="form-control" style="width: 100%;" type="text" name="lastName" required="true" placeholder="Enter last name...">
+        </div>
+
+        <!-- Hospital number input -->
+        <div class="form-group row input-container">
+            <label>Hospital no.</label>
+            <input class="form-control" style="width: 100%;" type="text" name="hospitalNumber" required="true" placeholder="Enter Hospital no...">
+        </div>
+
+        <!-- Date of birth -->
+        <div class="form-group row input-container">
+            <label>Date of birth</label>
+            <input class="form-control" style="width: 100%;" type="text" name="dateOfBirth" required="true" placeholder="DD/MM/YYYY">
+        </div>
+
+
+
+        <!-- Sex -->
+        <div class="form-group row">
+            <label>Sex</label>
+            <div class="btn-group" data-toggle="buttons">
+                  <label class="btn btn-primary active" style="margin:0px;">
+                    <input id="male-radio" type="radio" name="sex" value="male" autocomplete="off" checked>Male
+                  </label>
+                  <label class="btn btn-primary" style="margin:0px;">
+                    <input id="female-radio" type="radio" name="sex" value="female" autocomplete="off"> Female
+                  </label>
+                </div>
+        </div>
+
+    	<table id="add-new-patient" class="table-style table table-striped table-bordered" cellspacing="0" width="100%">
+    		<!-- JavaScript works here! -->
+    	</table>
+    	<input class="btn-style btn btn-success" style="float: right;" type="Submit" name="Submit" value="Add patient">
+    </form>
+</div>
+
+<script type="text/javascript" src="/js/jquery.dataTables.min.js"></script>
+<script type="text/javascript" src="/js/dataTables.bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/addpatient.js"></script>

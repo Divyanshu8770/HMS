@@ -1,0 +1,51 @@
+table {
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+/* Tooltip */
+img {
+    width: 30px;
+    height: 30px;
+    margin: 10px;
+}
+
+.tooltip-style .tooltiptext {
+    visibility: hidden;
+    width: 300px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 10px 10px;
+    border-radius: 6px;
+   
+    margin-left: -10px;        
+
+    /* Animation */
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+.tooltip-style .tooltiptext::after {
+    content: "";
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent transparent black transparent;
+}
+
+.tooltip-style:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+}
+
+.table-view {
+    padding: 30px 30px 0 30px;
+    margin: 0 0 30px 0;
+    border: 1px solid black;
+    border-radius: 20px;
+
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}

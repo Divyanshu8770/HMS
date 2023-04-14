@@ -1,0 +1,19 @@
+/* Navbar */
+.logo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    padding-left: 20px;
+}
+
+.navbar {
+    background-color: #F798A6;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #000;
+}
+
+/* Sidebar */
+.nav .in {
+    background-color: red;
+}
