@@ -1,4 +1,4 @@
-![App picture](https://github.com/Divyanshu8770/HMS/tree/main/HMS)
+![App picture](https://github.com/Divyanshu8770/HMS/blob/main/HMS/)
 
 # Description :point_left:
 It's a web application for managing hospitals rooms and determining the patient's priority for isolation. The app provides a centralised hub for managing the patients and planning their distribution across hospital’s rooms. 
