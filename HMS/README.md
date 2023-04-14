@@ -92,7 +92,7 @@ Folder | Content | Responsability
 # Technologies
 
 ### Backend
-![Nodejs - ExpressJS](https://github.com/margiki/NHS-nodejs-webapp/blob/master/github_readme_photos/backend.jpg)
+![Nodejs - ExpressJS](https://github.com/Divyanshu8770/NHS-nodejs-webapp/blob/master/github_readme_photos/backend.jpg)
 
 ### Frontend
 ![jQuery](https://github.com/margiki/NHS-nodejs-webapp/blob/master/github_readme_photos/frontend.jpg)
