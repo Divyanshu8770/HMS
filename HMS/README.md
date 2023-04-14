@@ -92,16 +92,16 @@ Folder | Content | Responsability
 # Technologies
 
 ### Backend
-![Nodejs - ExpressJS](https://github.com/Divyanshu8770/HMS/tree/main/HMS/github_readme_photos/backend.jpg)
+![Nodejs - ExpressJS](https://github.com/Divyanshu8770/HMS/blob/main/HMS/github_readme_photos/backend.jpg)
 
 ### Frontend
-![jQuery](https://github.com/Divyanshu8770/HMS/tree/main/HMS/github_readme_photos/frontend.jpg)
+![jQuery](https://github.com/Divyanshu8770/HMS/blob/main/HMS/github_readme_photos/frontend.jpg)
 
 ### Database
-![MongoDB - Mongoose](https://github.com/Divyanshu8770/HMS/tree/main/HMS/github_readme_photos/database.jpg)
+![MongoDB - Mongoose](https://github.com/Divyanshu8770/HMS/blob/main/HMS/github_readme_photos/database.jpg)
 
 ### Databse Schema
-![Database schema](https://github.com/Divyanshu8770/HMS/tree/main/HMS/github_readme_photos/database_design.jpg)
+![Database schema](https://github.com/Divyanshu8770/HMS/blob/main/HMS/github_readme_photos/database_design.jpg)
 
 **The available application is connected to a MongoDB database online.** If you want to change the database to another one, you need to go: NHS app folder -> server -> db -> mongoose.js
 
@@ -122,7 +122,7 @@ URI |	Returns
 1. On some mobiles devices (iPhone, iPad) assigning rooms to patients is not working because mobile browsers doesn’t interpret the double-click. Also, the user can’t enter the patient's page because of the same reason. However, on LG mobile devices this feature works. 
 
 # License 
-Free to use, copy and distribute. :money_with_wings:
+Free to use, copy and distribute. 💸:
 
 
 
