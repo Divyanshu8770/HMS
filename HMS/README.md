@@ -38,7 +38,7 @@ Data about patients and rooms is available here. The page is split into three ta
 
 ![Dashboard](https://github.com/Divyanshu8770/HMS/blob/main/HMS/github_readme_photos/dashboard.jpg)
 
-![Dashboard](https://github.com/Divyanshu8770/HMS/tree/main/HMS/github_readme_photos/dasboard_2.jpg)
+![Dashboard](https://github.com/Divyanshu8770/HMS/blob/main/HMS/github_readme_photos/dasboard_2.jpg)
 
 To clear the red warning sign you need to go on the patient’s personal page. To do that, you have to double click on his name. By clicking on the ‘Update button’ on the bottom of the page, the patient’s diagnosis in updated for the next 24 hours (consequently, the red warning sign disappears).
 
@@ -46,18 +46,18 @@ To clear the red warning sign you need to go on the patient’s personal page. T
 
 You can add a new patient in the system with his personal details and his diseases. The application automatically computes the score of the patient based on the entered diseases
 
-![Add patient page](https://github.com/Divyanshu8770/HMS/tree/main/HMS/github_readme_photos/add_new_patient.jpg)
+![Add patient page](https://github.com/Divyanshu8770/HMS/blob/main/HMS/github_readme_photos/add_new_patient.jpg)
 
 ### Patient page
 
 Double click on a patient name on the dashboard to get here.
-![Patient page](https://github.com/Divyanshu8770/HMS/tree/main/HMS/github_readme_photos/patient_page.jpg)
+![Patient page](https://github.com/Divyanshu8770/HMS/blob/main/HMS/github_readme_photos/patient_page.jpg)
 
 ### System settings
 
 The control center of the application. It allows users to manage the diseases & rooms of the Hospital and create new accounts
 
-![System Settings](https://github.com/Divyanshu8770/HMS/tree/main/HMS/github_readme_photos/system_settings.jpg)
+![System Settings](https://github.com/Divyanshu8770/HMS/blob/main/HMS/github_readme_photos/system_settings.jpg)
 
 # App Modules and Code organisation
 ### Modules
